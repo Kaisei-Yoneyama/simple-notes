@@ -1,7 +1,7 @@
 'use strict';
 
 const DATABASE_VERSION = 1;
-const DATABASE_NAME = 'notes';
+const DATABASE_NAME = 'simple_notes';
 const STORE_NAME = 'notes';
 
 /** @type {IDBDatabase | null} */
